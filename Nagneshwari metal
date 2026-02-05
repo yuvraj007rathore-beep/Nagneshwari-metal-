@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nageshwari Metal Odhav</title>
+<style>
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    color:#333;
+}
+header{
+    background:#222;
+    color:#fff;
+    padding:15px;
+    text-align:center;
+}
+nav a{
+    color:#fff;
+    margin:0 10px;
+    text-decoration:none;
+    font-weight:bold;
+}
+section{
+    padding:40px 20px;
+    background:#fff;
+    margin:15px;
+    border-radius:8px;
+}
+h2{
+    color:#222;
+}
+.products li{
+    margin:8px 0;
+}
+.contact{
+    background:#222;
+    color:#fff;
+    text-align:center;
+}
+.contact a{
+    color:#ffd700;
+    text-decoration:none;
+    font-weight:bold;
+}
+footer{
+    text-align:center;
+    padding:10px;
+    background:#111;
+    color:#aaa;
+    font-size:14px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Nageshwari Metal Odhav</h1>
+    <p>Manufacturer of Stainless Steel Kitchen Products</p>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#products">Products</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        Nageshwari Metal Odhav is a trusted stainless steel manufacturer located in 
+        GIDC Industrial Area, Odhav, Ahmedabad. We specialize in high-quality kitchen
+        and commercial stainless steel products with durable finishing.
+    </p>
+</section>
+
+<section id="products">
+    <h2>Our Products</h2>
+    <ul class="products">
+        <li>Steel Tandoor</li>
+        <li>Handi Set</li>
+        <li>Multi Kadai</li>
+        <li>Steel Plates</li>
+        <li>Steel Kumcha</li>
+        <li>Custom Stainless Steel Items</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>Premium Stainless Steel Quality</li>
+        <li>Factory Direct Prices</li>
+        <li>Bulk & Custom Orders Accepted</li>
+        <li>Trusted by Hotels & Caterers</li>
+    </ul>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>📍 No. 178, Vijay Estate, Near Bhikshugruh Road,<br>
+       GIDC Industrial Area, Odhav, Ahmedabad – 382415</p>
+    <p>📞 <a href="tel:08866422879">08866 422879</a></p>
+    <p>⏰ Open 24 Hours</p>
+</section>
+
+<footer>
+    © 2026 Nageshwari Metal Odhav | All Rights Reserved
+</footer>
+
+</body>
+</html>
